@@ -1,17 +1,24 @@
 <div align="center">
 
-# Hi there, I'm Semih Gözübüyük 👋
+# Semih Gözübüyük
+
 ### Software Engineer
 
 Building scalable backend systems, modern web applications, and AI-powered solutions.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Engineer;ASP.NET+Core+%7C+FastAPI+%7C+Next.js;Building+Scalable+Software." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Machine+Learning+Enthusiast;Building+Scalable+Software" />
 
 <br>
 
-<a href="https://github.com/semihgzbyk">GitHub</a> •
-<a href="https://www.linkedin.com/in/semihgözübüyük/">LinkedIn</a> •
-<a href="mailto:gozubuyuksemih@gmail.com">Email</a>
+<a href="https://github.com/semihgzbyk" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/semihg%C3%B6z%C3%BCb%C3%BCy%C3%BCk/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:gozubuyuksemih@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
@@ -23,112 +30,102 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 
 ## 👨‍💻 About
 
-I'm a **Software Engineer** passionate about backend development, AI, and modern web technologies.
-My primary stack includes **ASP.NET Core**, **FastAPI**, **Next.js**, and **PostgreSQL**. I enjoy designing scalable systems, building performant APIs, and applying machine learning to solve real-world problems.
+Software Engineer passionate about backend development, modern web technologies, and artificial intelligence.
 
----
-
-## 🎓 Education
-
-- **Kayseri University** — Software Engineering *(2023–2026, transfer student)*
-- **Gümüşhane University** — Software Engineering *(2022–2023)*
-
----
-
-## 💼 Experience
-
-**Software Developer Trainee** — InfoTech Academy *(07/2026 – Present)*
-Hands-on training in C# and .NET technologies, focused on OOP, algorithms, and software development fundamentals.
-
-**Full Stack Developer (Intern)** — Detagen *(08/2025)*
-- Built bioinformatics-focused full-stack web applications with Next.js, TypeScript, FastAPI, and PostgreSQL
-- Integrated FastAPI-based REST services with the Next.js frontend to manage data flow
-- Designed responsive interfaces with Tailwind CSS to improve genomic data visualization
-
-**ASP.NET Core MVC Developer (Intern)** — Lütuf Mensucat *(08/2024 – 09/2024)*
-- Built a web-based employee leave management system with ASP.NET Core MVC, Entity Framework, and SQL Server
-- Implemented role-based authorization with distinct access and approval flows for staff and managers
+I build scalable applications using **ASP.NET Core**, **FastAPI**, **Next.js**, and **PostgreSQL**, while exploring **Machine Learning**, **Computer Vision**, and data-intensive systems.
 
 ---
 
 ## 🎯 Current Focus
 
 - 🚀 Backend Development with ASP.NET Core & FastAPI
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 High-performance Web Applications
+- 🤖 Machine Learning & Computer Vision
 - 🏗️ Clean Architecture & System Design
+- ☁️ Scalable Web Applications
 
 ---
 
 ## ⚡ Tech Stack
 
 ### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=cs,python,ts,js,cpp,c,php" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css" />
 </p>
 
 ### Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mssql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### Tools & OS
+### Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
-**AI:** MATLAB • Pandas • Scikit-learn • YOLOv8 • Deep Learning • CNN • RNN • Computer Vision
+### AI
+
+`Scikit-learn` • `Pandas` • `YOLOv8` • `Deep Learning` • `Computer Vision`
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧬 Somatic Variant Visualization Platform
-A full-stack application built with **Next.js**, **FastAPI**, and **PostgreSQL** for interactive visualization and interpretation of somatic variant data.
+
+Interactive platform for visualizing and interpreting somatic variant data.
+
+**Tech Stack:** Next.js • FastAPI • PostgreSQL • Tailwind CSS
 
 ---
 
 ### 🌍 Genome Ancestry Prediction
-Machine learning pipeline using **PLINK2**, **PCA**, **Random Forest**, **Logistic Regression**, and **SVM**, achieving **94.81% accuracy** across **26 subpopulations**.
+
+Machine learning pipeline using PCA, Random Forest, Logistic Regression, and SVM to predict ancestry across **26 subpopulations** with **94.81% accuracy**.
+
+**Tech Stack:** Python • PLINK2 • Scikit-learn • Next.js
 
 ---
 
 ### 🫁 Pneumonia Detection from Chest X-Rays
-Deep learning model built with **YOLOv8 Classification** and **Scikit-learn**, achieving **97.04% accuracy**.
+
+Deep learning model based on YOLOv8 Classification, achieving **97.04% accuracy**.
+
+**Tech Stack:** Python • YOLOv8 • Scikit-learn
 
 ---
 
 ### 📋 Employee Leave Management System
-Role-based employee leave management application built with **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**.
 
----
+Role-based leave management application with approval workflows.
 
-## 🤝 Volunteering
-
-**Volunteer** — T3 Foundation *(04/2023)*
-Volunteered at Baykar Container City in the earthquake-affected region, supporting social and educational activities for children.
+**Tech Stack:** ASP.NET Core MVC • Entity Framework Core • SQL Server
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=semihgzbyk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihgzbyk&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=semihgzbyk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihgzbyk&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=semihgzbyk&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=semihgzbyk&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -136,13 +133,15 @@ Volunteered at Baykar Container City in the earthquake-affected region, supporti
 ## 💬 Favorite Quote
 
 > *"Simplicity is prerequisite for reliability."*
+>
 > **— Edsger W. Dijkstra**
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! ⭐
-If you like my work, feel free to connect or explore my repositories.
+### ⭐ Thanks for visiting!
+
+Always open to collaborating on interesting projects and learning new technologies.
 
 </div>
