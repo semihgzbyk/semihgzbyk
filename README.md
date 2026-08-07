@@ -132,9 +132,9 @@ Role-based leave management application with approval workflows.
 
 ## 💬 Favorite Quote
 
-> *"Simplicity is prerequisite for reliability."*
+> *"For me, there are staircases at every stage of life. At the end of each one lies a summit. Every step matters. You cannot reach that summit without taking the first step."*
 >
-> **— Edsger W. Dijkstra**
+> **— Şenol Güneş**
 
 ---
 
