@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Semih Gözübüyük 👋
-
 ### Software Engineer
 
 Building scalable backend systems, modern web applications, and AI-powered solutions.
@@ -25,8 +24,30 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 ## 👨‍💻 About
 
 I'm a **Software Engineer** passionate about backend development, AI, and modern web technologies.
-
 My primary stack includes **ASP.NET Core**, **FastAPI**, **Next.js**, and **PostgreSQL**. I enjoy designing scalable systems, building performant APIs, and applying machine learning to solve real-world problems.
+
+---
+
+## 🎓 Education
+
+- **Kayseri University** — Software Engineering *(2023–2026, transfer student)*
+- **Gümüşhane University** — Software Engineering *(2022–2023)*
+
+---
+
+## 💼 Experience
+
+**Software Developer Trainee** — InfoTech Academy *(07/2026 – Present)*
+Hands-on training in C# and .NET technologies, focused on OOP, algorithms, and software development fundamentals.
+
+**Full Stack Developer (Intern)** — Detagen *(08/2025)*
+- Built bioinformatics-focused full-stack web applications with Next.js, TypeScript, FastAPI, and PostgreSQL
+- Integrated FastAPI-based REST services with the Next.js frontend to manage data flow
+- Designed responsive interfaces with Tailwind CSS to improve genomic data visualization
+
+**ASP.NET Core MVC Developer (Intern)** — Lütuf Mensucat *(08/2024 – 09/2024)*
+- Built a web-based employee leave management system with ASP.NET Core MVC, Entity Framework, and SQL Server
+- Implemented role-based authorization with distinct access and approval flows for staff and managers
 
 ---
 
@@ -42,62 +63,60 @@ My primary stack includes **ASP.NET Core**, **FastAPI**, **Next.js**, and **Post
 ## ⚡ Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=cs,python,ts,js,cpp,c,php" />
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
 </p>
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css" />
 </p>
 
 ### Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mssql" />
 </p>
 
-### AI & Tools
-
+### Tools & OS
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
-**AI:** Scikit-learn • Pandas • YOLOv8 • Deep Learning • Computer Vision
+**AI:** MATLAB • Pandas • Scikit-learn • YOLOv8 • Deep Learning • CNN • RNN • Computer Vision
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧬 Somatic Variant Visualization Platform
-
 A full-stack application built with **Next.js**, **FastAPI**, and **PostgreSQL** for interactive visualization and interpretation of somatic variant data.
 
 ---
 
 ### 🌍 Genome Ancestry Prediction
-
 Machine learning pipeline using **PLINK2**, **PCA**, **Random Forest**, **Logistic Regression**, and **SVM**, achieving **94.81% accuracy** across **26 subpopulations**.
 
 ---
 
 ### 🫁 Pneumonia Detection from Chest X-Rays
-
 Deep learning model built with **YOLOv8 Classification** and **Scikit-learn**, achieving **97.04% accuracy**.
 
 ---
 
 ### 📋 Employee Leave Management System
-
 Role-based employee leave management application built with **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**.
+
+---
+
+## 🤝 Volunteering
+
+**Volunteer** — T3 Foundation *(04/2023)*
+Volunteered at Baykar Container City in the earthquake-affected region, supporting social and educational activities for children.
 
 ---
 
@@ -114,17 +133,9 @@ Role-based employee leave management application built with **ASP.NET Core MVC**
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/semihgzbyk/semihgzbyk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
 ## 💬 Favorite Quote
 
-> *"Simplicity is prerequisite for reliability."*  
+> *"Simplicity is prerequisite for reliability."*
 > **— Edsger W. Dijkstra**
 
 ---
@@ -132,7 +143,6 @@ Role-based employee leave management application built with **ASP.NET Core MVC**
 <div align="center">
 
 ### Thanks for visiting! ⭐
-
 If you like my work, feel free to connect or explore my repositories.
 
 </div>
